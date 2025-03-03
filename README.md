@@ -57,4 +57,4 @@ From the waveform, we can see the write operation where the data_in value is sto
 
 
     ### Output: 
-![output]()
+![output](https://github.com/pavanivanapilli112/Task_2/blob/main/IMG-20250303-WA0006.jpg)
